@@ -1,6 +1,8 @@
 # auto_12306  
-第一步：可能需要安装的python包：requests，selenium  
-第二步：安装selenium webdriver 驱动，这里以chrome浏览器为例
+第一步：  
+可能需要安装的python包：requests，selenium  
+第二步：  
+安装selenium webdriver 驱动，这里以chrome浏览器为例
 chromedriver下载地址：  
 http://chromedriver.storage.googleapis.com/index.html  
 http://npm.taobao.org/mirrors/chromedriver/  
